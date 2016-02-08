@@ -1,3 +1,7 @@
+# Lien vers la présentation
+
+<a href="https://gegron.github.io/Presentation_MetiersInformatiques">https://gegron.github.io/Presentation_MetiersInformatiques</a>
+
 # Shower Presentation Template
 
 <img src="pictures/logo.png" width="250" alt="Shower logo">
